@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:dashboard": "vitest ",
+    "test:dashboard": "vitest --ui",
     "test": "vitest run",
     "exercise": "node ./testSetup/scripts/exercise.js",
     "ex": "npm run exercise --",
