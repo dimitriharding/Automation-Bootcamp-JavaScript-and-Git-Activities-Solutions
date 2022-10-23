@@ -1,10 +1,9 @@
 
 # JavaScript and Git: Automation Bootcamp Exercise solutions
 
+<image src="https://raw.githubusercontent.com/dimitriharding/Automation-Bootcamp-JavaScript-and-Git-Activities-Solutions/main/example.png" />
+
 This project contains all of the exercise solutions.
-
-
-
 
 
 ## Clone the project
@@ -21,9 +20,6 @@ Use npm to install project dependencies
 ```bash
   npm install
 ```
-
-
-
 
     
 ## Running Tests
