@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dashboard": "vitest ",
+    "test": "vitest run",
+    "exercise": "node ./testSetup/scripts/exercise.js",
+    "ex": "npm run exercise --",
+    "confirm:setup": "node ./testSetup/scripts/confirm-setup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "@vitest/ui": "^0.24.3",
+    "node-fetch": "^2.6.7",
+    "vitest": "^0.24.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
